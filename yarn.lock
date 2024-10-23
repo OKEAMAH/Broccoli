@@ -1571,10 +1571,10 @@
     tiny-invariant "^1.1.0"
     toformat "^2.0.0"
 
-"@uniswap/sdk-core@^5.3.1":
-  version "5.3.1"
-  resolved "https://registry.yarnpkg.com/@uniswap/sdk-core/-/sdk-core-5.3.1.tgz#22d753e9ef8666c2f3b4d9a89b9658d169be4ce8"
-  integrity sha512-XLJY8PcMZnKYBGLABJnLXcr3EgWql3mmnmpHyV1/MmEh9pLJLHYz4HLwVHb8pGDCqpOFX0e+Ei44/qhC7Q5Dsg==
+"@uniswap/sdk-core@^5.8.0":
+  version "5.9.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/sdk-core/-/sdk-core-5.9.0.tgz#8f1edf4d0e94b314f4394fa5abe0bf5fc9c5a79a"
+  integrity sha512-OME7WR6+5QwQs45A2079r+/FS0zU944+JCQwUX9GyIriCxqw2pGu4F9IEqmlwD+zSIMml0+MJnJJ47pFgSyWDw==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     "@ethersproject/bytes" "^5.7.0"
